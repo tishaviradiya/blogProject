@@ -6,7 +6,8 @@ const app = express();
 
 const path = require('path');
 
-console.log("hi")
+console.log("hi");
+console.log("hello");
 
 const mongoose = require('mongoose');
 
